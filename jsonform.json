@@ -1,0 +1,50 @@
+﻿{
+  "0": [
+    "1",
+    "Fagus sylvatica"
+  ],
+  "1": [
+    "2",
+    "Juglans regia"
+  ],
+  "2": [
+    "3",
+    "Castanea sativa"
+  ],
+  "3": [
+    "4",
+    "Quercus cerris"
+  ],
+  "4": [
+    "5",
+    "Alnus glutinosa"
+  ],
+  "5": [
+    "6",
+    "Fraxinus ornus"
+  ],
+  "6": [
+    "7",
+    "Picea abies"
+  ],
+  "7": [
+    "8",
+    "Pinus sylvestris"
+  ],
+  "8": [
+    "9",
+    "Ailanthus altissima"
+  ],
+  "9": [
+    "10",
+    "Robinia pseudoacacia"
+  ],
+  "10": [
+    "11",
+    "Cupressus sempervirens"
+  ],
+  "11": [
+    "12",
+    "Platanus orientalis"
+  ]
+}
